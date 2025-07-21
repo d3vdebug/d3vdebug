@@ -77,7 +77,7 @@
 <div align ="center">
   
 
-![](https://nirzak-streak-stats.vercel.app/?user=debmalyamondal&theme=codeSTACKr&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=d3vdebug&theme=codeSTACKr&hide_border=true)
 ###
 
 <p align="center">
