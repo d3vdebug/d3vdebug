@@ -172,7 +172,27 @@
   </a>
 </div>
 
+###
 
+```mermaid
+flowchart TD
+    A[Wake up] --> B[Open terminal]
+    B --> C[Try something from last night's idea]
+    C --> D{Did it work?}
+    D -- Yes --> E[Push to GitHub]
+    D -- No --> F[Google the error]
+    F --> G[Open 5 Stack Overflow tabs]
+    G --> H[None of them help]
+    H --> I[Blame the compiler or interpreter]
+    I --> J[Take a break pretending to think]
+    J --> B
+    E --> K[Check GitHub stats]
+    K --> L[Realize nothing changed]
+    L --> M[Contemplate career choices]
+    M --> N[Go back to terminal]
+    N --> B
+```
+###
 
 <h1 align="left">🤝 Support</h1>
 
