@@ -1,6 +1,13 @@
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
 [![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
 
-<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
+
+<div align = "center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/devdebug.png" alt="Your Image Badge" />
+</div>
+
 
 
 <h1 align="left">👋 About Me</h1>
@@ -24,12 +31,28 @@
 **Fun Fact:** I believe that good design is invisible, and great design is empowering!
 ###
 
+###
+
+<h3 align="center">Certifications</h3>
+
+###
+
+<div align = "center" align-items ="center">
+  <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/68508154-5403-4a2d-b172-fc2d2d0616a2" />
+  <img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/b4f3f62f-7f22-4a0f-b5f9-f596407005bb" />
+  <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/734122f5-0c83-49d7-a7cc-b33e3815afa3" />
+
+</div>
+
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
 <div align = "center">
   <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
+
+
 
 ###
 
