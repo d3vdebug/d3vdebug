@@ -112,7 +112,6 @@
 </div>
 
 ###
-
 <h1 align = "left">📰 Blogs</h1>
 
 ###
