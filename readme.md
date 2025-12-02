@@ -112,9 +112,11 @@
 </div>
 
 ###
+
 <h1 align = "left">📰 Blogs</h1>
 
 ###
+
 <div align="center" style="width: 70% height: 200px">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@debmalyamondal/0">
     <img style="width: 70% height: 200px" src="https://github-readme-medium-recent-article.vercel.app/medium/@debmalyamondal/0" alt="Medium post 1"  />
