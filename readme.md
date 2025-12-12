@@ -17,12 +17,8 @@ What I spend my time on:
 - Exploring cybersecurity concepts and hardening what I build
 I’m here to learn, experiment, and ship things that I’m proud of — one project at a time.
 
-If you want, I can tune it to be more bold, more minimal, more humorous, or more mysterious.
-
-
 **How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal) or shoot me an [email](mailto:debmalya.india@gmail.com)!
 
-**Fun Fact:** I believe that good design is invisible, and great design is empowering!
 ###
 
 ###
@@ -61,30 +57,28 @@ If you want, I can tune it to be more bold, more minimal, more humorous, or more
 <h2 align="center">Tech Stack</h1>
 
 
-
-
-### Design & Prototyping
-![Static Badge](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Static Badge](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&labelColor=blue) ![Static Badge](https://img.shields.io/badge/Ilustrator-orange?style=for-the-badge&logo=photoshop&labelColor=blue)
+>  ### Design & Prototyping
+> ![Static Badge](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Static Badge](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&labelColor=blue) ![Static Badge](https://img.shields.io/badge/Ilustrator-orange?style=for-the-badge&logo=photoshop&labelColor=blue)
 
 
 
 
-### Frontend Development
-![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
+> ### Frontend Development
+> ![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
 
-### Backend & Databases
-![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&color=white)
+> ### Backend & Databases
+> ![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&color=white)
 
-### Programming & Data/ML
-![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
-
-
-### Cybersecurity & Offensive Tools
-![Static Badge](https://img.shields.io/badge/Burp%20Suite-blue?style=for-the-badge&logo=burpsuite&color=white)
+> ### Programming & Data/ML
+> ![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
 
 
-### Systems & Environments
- ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
+> ### Cybersecurity & Offensive Tools
+> ![Static Badge](https://img.shields.io/badge/Burp%20Suite-blue?style=for-the-badge&logo=burpsuite&color=white)
+
+
+> ### Systems & Environments
+> ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
 
 
 
