@@ -49,7 +49,7 @@ If you want, I can tune it to be more bold, more minimal, more humorous, or more
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/8cf6df24-9916-4f5b-8227-a60f6593b2af" /></td>
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/42b346a9-7f24-4803-9fd1-d07c22979979" /></td>
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
+
   </tr>
 </table>
 
