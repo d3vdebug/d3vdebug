@@ -27,8 +27,6 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 
 <div align = "center" align-items ="center">
   
-  
-  
 <table width="100%">
   <tr>
   <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/68508154-5403-4a2d-b172-fc2d2d0616a2" /></td>
