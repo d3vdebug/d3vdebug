@@ -57,8 +57,6 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 > ![Static Badge](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Static Badge](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&labelColor=blue) ![Static Badge](https://img.shields.io/badge/Ilustrator-orange?style=for-the-badge&logo=photoshop&labelColor=blue)
 
 
-
-
 > ### Frontend Development
 > ![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
 
@@ -76,6 +74,7 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 > ### Systems & Environments
 > ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
 
+###
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d3vdebug&utm_content=farm">
 <img
