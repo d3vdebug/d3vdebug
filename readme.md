@@ -77,7 +77,13 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 > ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
 
 
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d3vdebug&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/d3vdebug"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 <div align="center">
