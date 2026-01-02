@@ -185,7 +185,6 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 ###
 
 <h2 align="center">Support 🤝</h1>
-
 <div align="center">
   <a href="https://www.buymeacoffee.com/devdebug">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
