@@ -20,7 +20,6 @@ I’m here to learn, experiment, and ship things that I’m proud of — one pro
 
 ###
 
-
 <h3 align="center">Certifications</h3>
 
 ###
