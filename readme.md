@@ -16,7 +16,7 @@ What I spend my time on:
 - Exploring cybersecurity concepts and hardening what I build
 I’m here to learn, experiment, and ship things that I’m proud of — one project at a time.
 
-**How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal) or shoot me an [email](mailto:debmalya.india@gmail.com)!
+**How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal)
 
 ###
 
