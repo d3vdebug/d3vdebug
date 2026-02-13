@@ -1,7 +1,6 @@
 [![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
 
 <h3 align="left">whoami</h1>
-<img width="350" align ="right" src="https://github.com/user-attachments/assets/0cf3ecfa-22b0-46ac-b14a-4ec29a896327"/>
 
 Hi there! I'm Debmalya 
 
