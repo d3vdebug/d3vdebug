@@ -2,18 +2,10 @@
 
 <h3 align="left">whoami</h1>
 
-Hi there! I'm Debmalya 
+Hello! I'm Debmalya 
 
 I like building things that feel good to use and make sense under the hood.
 My work usually sits somewhere between web development, design, and cybersecurity — and I enjoy that overlap more than picking just one lane.
-I care about clean UI, thoughtful UX, and code that doesn’t fight back.
-Sometimes I’m designing flows, sometimes I’m writing backend logic, sometimes I’m poking at security just to understand how things break (and how to fix them).
-What I spend my time on:
-- Building web apps end‑to‑end
-- Designing interfaces and refining user experience
-- Writing scripts, automating things, and debugging until it works
-- Exploring cybersecurity concepts and hardening what I build
-I’m here to learn, experiment, and ship things that I’m proud of — one project at a time.
 
 **How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal)
 
