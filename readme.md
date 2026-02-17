@@ -25,6 +25,7 @@
     
 </pre>
 
+
 ---
 
 <h3 align="center">< Certifications ></h3>
@@ -140,7 +141,7 @@
 >  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c9d4f3de-d068-4a1e-823b-d869f9d4b7ae"/></td>
 >  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/38a1fb7b-08bf-454e-bc6b-8569bc528180"/></td>
 >  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/1038405c-344f-4973-8ad8-230ebee13fba"/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e2b1cda8-2eff-421e-9120-5d48aad0348f"/></td>
 >
 >  </tr>
 >  <tr>
@@ -148,9 +149,10 @@
 >  <td>Github</td>
 >  <td>VS Code</td>
 >  <td>Jetbrains</td>
->  <td></td>
+>  <td>Jupiter Notebook</td>
 >  </tr>
 > </table> 
+
 
 
 > ### Operating Systems
