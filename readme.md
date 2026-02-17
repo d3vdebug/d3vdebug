@@ -40,29 +40,32 @@ My work usually sits somewhere between web development, design, and cybersecurit
 
 ###
 <!-- Tech Stack Section -->
-<h2 align="center">Tech Stack</h1>
+<h3 align="left">tech_stack</h3>
 
-
->  ### Design & Prototyping
-> ![Static Badge](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Static Badge](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&labelColor=blue) ![Static Badge](https://img.shields.io/badge/Ilustrator-orange?style=for-the-badge&logo=photoshop&labelColor=blue)
-
-
-> ### Frontend Development
-> ![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
-
-> ### Backend & Databases
-> ![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&color=white)
-
-> ### Programming & Data/ML
+> ### Programming Languages
 > ![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
 
+> ### Libraries & Frameworks
+> ![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
 
-> ### Cybersecurity & Offensive Tools
+> ### CyberOps & Security Tools
 > ![Static Badge](https://img.shields.io/badge/Burp%20Suite-blue?style=for-the-badge&logo=burpsuite&color=white)
 
+> ### Cloud, DevOps & Data Engineering Tools
+> ![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&color=white)
 
-> ### Systems & Environments
+> ### Developer Tools
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=orange) ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+> ### Operating Systems
 > ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
+
+>  ### Design & Productivity Tools
+> ![Figma](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Framer](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Notion](https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) 
+
+
+
+<!--
 
 ###
 
@@ -73,6 +76,7 @@ My work usually sits somewhere between web development, design, and cybersecurit
   height="300"
 />
 </a>
+-->
 
 <!--
 <div align="center">
@@ -159,6 +163,8 @@ My work usually sits somewhere between web development, design, and cybersecurit
 </div>
 -->
 
+
+<!-- Sportify
 ###
 <br>
 <div align="center">
@@ -166,6 +172,7 @@ My work usually sits somewhere between web development, design, and cybersecurit
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3176df6we5mhjh2dw6ttjexrchei&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+-->
 
 <!-- Snake Game -->
 <div align = "center">
@@ -174,15 +181,12 @@ My work usually sits somewhere between web development, design, and cybersecurit
 
 ###
 
-<h2 align="center">Support 🤝</h1>
+<h3 align="center">Support 🤝</h3>
 <div align="center">
   <a href="https://www.buymeacoffee.com/devdebug">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/devdebug">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
-  </a>
+  
 </div>
 
 ###
@@ -190,5 +194,5 @@ My work usually sits somewhere between web development, design, and cybersecurit
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
 </div>
