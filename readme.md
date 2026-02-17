@@ -29,8 +29,6 @@
 
 <h3 align="center">< Certifications ></h3>
 
-###
-
 <div align = "center" align-items ="center">
   
 <table width="100%">
@@ -51,7 +49,7 @@
   </tr>
 </table>
 
-<br>
+
 </div>
 
 ###
