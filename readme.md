@@ -97,11 +97,11 @@
 > ### CyberOps & Security Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/cfe13a1d-e252-429b-b863-499b767ae995"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/1584779d-2d9f-4e66-b0e0-a4a48dab681b"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c6f71101-cd09-4256-a4f8-cdb24d7c8d08"/></td>
+>  <td align="center"><img width="30" height="30" src="https://github.com/user-attachments/assets/016f7174-0956-4b9e-ba4e-22fce25342fb"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/942ba7af-c374-4485-9d3d-3246fea0be70"/></td>
 >
 >  </tr>
 >  <tr>
@@ -112,6 +112,7 @@
 >  <td>Splunk</td>
 >  </tr>
 > </table> 
+
 
 > ### Cloud, DevOps & Data Engineering Tools
 >  <table width="100%">
@@ -124,32 +125,33 @@
 >
 >  </tr>
 >  <tr>
->  <td></td>
->  <td></td>
->  <td></td>
->  <td></td>
->  <td></td>
+>  <td>Azure</td>
+>  <td>AWS</td>
+>  <td>Appwrite</td>
+>  <td>MongoDB</td>
+>  <td>Docker</td>
 >  </tr>
 > </table> 
 
 > ### Developer Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c8c903ba-cfe8-418e-8192-24fb74e8f5f0"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c9d4f3de-d068-4a1e-823b-d869f9d4b7ae"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/38a1fb7b-08bf-454e-bc6b-8569bc528180"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/1038405c-344f-4973-8ad8-230ebee13fba"/></td>
 >  <td align="center"><img width="24" height="24" src=""/></td>
 >
 >  </tr>
 >  <tr>
->  <td></td>
->  <td></td>
->  <td></td>
->  <td></td>
+>  <td>Git</td>
+>  <td>Github</td>
+>  <td>VS Code</td>
+>  <td>Jetbrains</td>
 >  <td></td>
 >  </tr>
 > </table> 
+
 
 > ### Operating Systems
 >  <table width="100%">
