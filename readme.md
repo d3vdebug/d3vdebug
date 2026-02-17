@@ -69,6 +69,18 @@
 
 
 
+<h3 align="center">< socials ></h3>
+<div align="center">
+    
+<a href="google.com"> <img width="64" height="64" alt="icons8-linkedin-64" src="https://github.com/user-attachments/assets/069fe109-120b-4b10-8c6c-53f0ec0f753c"/> </a>
+<a href="google.com"> <img width="64" height="64" alt="icons8-twitter-bird-64" src="https://github.com/user-attachments/assets/a7f6addd-e35b-463b-a1c0-f28bbc52263f"/> </a>
+<a href="google.com"> <img width="64" height="64" alt="icons8-instagram-64" src="https://github.com/user-attachments/assets/6440cb69-9361-4e0a-accc-0a3a3fc5d6dd" /> </a>
+<a href="google.com"> <img width="64" height="64" alt="icons8-medium-64 (1)" src="https://github.com/user-attachments/assets/2177736c-3295-4e16-9282-2271f74da54c" /> </a>
+<a href="google.com"> <img width="64" height="64" alt="icons8-website-64" src="https://github.com/user-attachments/assets/a46706bb-e643-489d-83e3-ff37f3a8bfc8" /> </a>
+
+
+</div>
+
 <!--
 
 ###
@@ -82,7 +94,7 @@
 </a>
 -->
 
-
+<!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -115,6 +127,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
  
 </div>
+-->
 
 ###
 ###
@@ -137,14 +150,7 @@
 
 ###
 
-<div align="center">
-    
-<a href="google.com"> <img width="50" height="50" alt="icons8-twitter-50" src="https://github.com/user-attachments/assets/b470cb52-767f-4510-8f25-d8e9e115f9d8"/> </a>
-<a> <img width="50" height="50" alt="icons8-medium-50" src="https://github.com/user-attachments/assets/b4d6b105-39ef-40e0-9ed8-b07919552882"/></a>
-<a> <img width="50" height="50" alt="icons8-linkedin-50" src="https://github.com/user-attachments/assets/4cba9fdb-2d76-4a8a-a65b-40bb1a208f06"/></a>
-<a> <img width="50" height="50" alt="icons8-instagram-50" src="https://github.com/user-attachments/assets/56246977-c2fd-4e14-bacb-3e5baa7cdf26"/>  </a>
-    
-</div>
+
 
 
 
