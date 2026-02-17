@@ -2,7 +2,7 @@ name: Generate Pac-Man Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # runs every 24 hours
   workflow_dispatch:
   push:
     branches:
@@ -18,11 +18,11 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}}}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
