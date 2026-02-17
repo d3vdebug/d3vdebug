@@ -1,5 +1,5 @@
 <a href="https://github.com/d3vdebug/pixelartgifs">
-    <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1"/>
+    <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="Wanna need gifs for your readme?"/>
 </a>
 
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
