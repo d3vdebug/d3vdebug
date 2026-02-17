@@ -141,14 +141,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=d3vdebug&theme=codeSTACKr&hide_border=true)
 
-<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 <!--
 <h2 align="center">Socials</h1>
@@ -178,13 +171,22 @@
 </div>
 -->
 
-<!-- Snake Game -->
-<!--
+<!-- Snake Game
 
 <div align = "center">
   <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
--->
+ -->
+ 
+<!-- PacMan -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
+</picture>
+###
+
 
 ###
 
@@ -196,9 +198,6 @@
   
 </div>
 
-###
-###
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
