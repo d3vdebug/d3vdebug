@@ -4,18 +4,18 @@
 
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
-<h3 align="left">whoami</h1>
+<h3 align="center">< whoami ></h1>
 
-Hello! I'm Debmalya 
+<p>Hi there 👋</p>
+<p>I break things in the name of security and fix things in the name of engineering.</p>
+<p>I’m currently juggling Cybersecurity, Data Engineering, Cloud, and Code, which means my days usually include a mix of Python scripts, logs, containers, dashboards, and the occasional “why-is-this-not-working” moment.</p>
 
-I like building things that feel good to use and make sense under the hood.
-My work usually sits somewhere between web development, design, and cybersecurity — and I enjoy that overlap more than picking just one lane.
 
 **How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal)
 
 ###
 
-<h3 align="center">Certifications</h3>
+<h3 align="left">< Certifications ></h3>
 
 ###
 
@@ -44,7 +44,7 @@ My work usually sits somewhere between web development, design, and cybersecurit
 
 ###
 <!-- Tech Stack Section -->
-<h3 align="left">tech_stack</h3>
+<h3 align="left">< tech_stack ></h3>
 
 > ### Programming Languages
 > ![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
