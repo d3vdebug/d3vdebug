@@ -52,21 +52,25 @@
 > ### Libraries & Frameworks
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/6900cec6-a153-4c4e-984b-c6dbc81da0ea"/></td>
+>  <td align="center"><img width="28" height="28" src="https://github.com/user-attachments/assets/64331105-f406-490b-82e3-9a2e6d8b633a"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/7d885177-32b0-478f-b5bf-d78c5634e267"/></td>
+>  <td align="center"><img width="38" height="38" src="https://github.com/user-attachments/assets/7b638c45-ad76-4dd9-a0d5-2016ce97cc16"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/79641809-c1c7-46f0-8d1c-1c9e8ec15be1"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/9e2ca9e9-9a0a-4ca6-95c6-603a885ae121"/></td>
 >
 >  </tr>
 >  <tr>
 >  <td>HTML</td>
 >  <td>CSS</td>
->  <td>Node.js</td>
 >  <td>React</td>
+>  <td>Node.js</td>
 >  <td>Vite.js</td>
+>  <td>Next.js</td>
 >  </tr>
 > </table> 
+
+
 
 > ### CyberOps & Security Tools
 >  <table width="100%">
@@ -91,21 +95,24 @@
 > ### Cloud, DevOps & Data Engineering Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
->  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/7342b5ba-48e6-4d3f-8d66-49d2cd0eaa85"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/6b627d19-e1c5-45c7-9f8b-4e7ceb30588e"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/38dfba4e-d01f-4e63-95a2-ad6a6b1271ce"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/9a930420-be14-46e5-960b-241aab81099b"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/bd89f06e-bc58-4f48-b618-b9158992243f"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/a11a712b-d78b-47d5-ba8a-662525bdb5ca"/></td>
 >
 >  </tr>
 >  <tr>
+>  <td>Google Cloud</td>
 >  <td>Azure</td>
->  <td>AWS</td>
+>  <td>Snowflake</td>
 >  <td>Appwrite</td>
 >  <td>MongoDB</td>
 >  <td>Docker</td>
 >  </tr>
 > </table> 
+
 
 > ### Developer Tools
 >  <table width="100%">
