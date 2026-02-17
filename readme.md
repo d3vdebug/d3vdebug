@@ -33,11 +33,11 @@
 > ### Programming Languages
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/97f053af-58e2-413f-bbbe-57754268e170"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/f4a4e6db-9dee-4961-9e50-6cb04d6e0783"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/17bb8137-55f7-414b-ad3f-977c8fcdd3f9"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/eb97958b-5e42-4267-893c-730bf8dd3791"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/97f053af-58e2-413f-bbbe-57754268e170"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/f4a4e6db-9dee-4961-9e50-6cb04d6e0783"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/17bb8137-55f7-414b-ad3f-977c8fcdd3f9"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/eb97958b-5e42-4267-893c-730bf8dd3791"/></td>
 >
 >  </tr>
 >  <tr>
@@ -52,11 +52,11 @@
 > ### Libraries & Frameworks
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
 >
 >  </tr>
 >  <tr>
@@ -71,11 +71,11 @@
 > ### CyberOps & Security Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/cfe13a1d-e252-429b-b863-499b767ae995"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/1584779d-2d9f-4e66-b0e0-a4a48dab681b"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c6f71101-cd09-4256-a4f8-cdb24d7c8d08"/></td>
->  <td align="center"><img width="30" height="30" src="https://github.com/user-attachments/assets/016f7174-0956-4b9e-ba4e-22fce25342fb"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/942ba7af-c374-4485-9d3d-3246fea0be70"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/cfe13a1d-e252-429b-b863-499b767ae995"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/1584779d-2d9f-4e66-b0e0-a4a48dab681b"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/c6f71101-cd09-4256-a4f8-cdb24d7c8d08"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/016f7174-0956-4b9e-ba4e-22fce25342fb"/></td>
+>  <td align="center"><img width="40" height="40" src="https://github.com/user-attachments/assets/942ba7af-c374-4485-9d3d-3246fea0be70"/></td>
 >
 >  </tr>
 >  <tr>
@@ -91,11 +91,11 @@
 > ### Cloud, DevOps & Data Engineering Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
->  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
+>  <td align="center"><img width="32" height="32" src=""/></td>
 >
 >  </tr>
 >  <tr>
@@ -110,11 +110,11 @@
 > ### Developer Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c8c903ba-cfe8-418e-8192-24fb74e8f5f0"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/c9d4f3de-d068-4a1e-823b-d869f9d4b7ae"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/38a1fb7b-08bf-454e-bc6b-8569bc528180"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/1038405c-344f-4973-8ad8-230ebee13fba"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e2b1cda8-2eff-421e-9120-5d48aad0348f"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/c8c903ba-cfe8-418e-8192-24fb74e8f5f0"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/c9d4f3de-d068-4a1e-823b-d869f9d4b7ae"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/38a1fb7b-08bf-454e-bc6b-8569bc528180"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/1038405c-344f-4973-8ad8-230ebee13fba"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/e2b1cda8-2eff-421e-9120-5d48aad0348f"/></td>
 >
 >  </tr>
 >  <tr>
@@ -131,9 +131,9 @@
 > ### Operating Systems
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/99e97680-66cb-4d3d-8741-277fef231221"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/b999de6f-64c6-4347-9193-da8a6ba41f24"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e5918771-36a7-41aa-88f5-923602be91a2"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/99e97680-66cb-4d3d-8741-277fef231221"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/b999de6f-64c6-4347-9193-da8a6ba41f24"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/e5918771-36a7-41aa-88f5-923602be91a2"/></td>
 >
 >  </tr>
 >  <tr>
@@ -147,9 +147,9 @@
 > ### Design & Productivity Tools
 >  <table width="100%">
 >  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/01651b71-ff67-4df6-9302-e11b3d0c356d"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e3397a8e-b68b-484a-9b03-de67e200c5ff"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e0b41f8b-7532-48a3-a168-2df509f09bdc"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/01651b71-ff67-4df6-9302-e11b3d0c356d"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/e3397a8e-b68b-484a-9b03-de67e200c5ff"/></td>
+>  <td align="center"><img width="32" height="32" src="https://github.com/user-attachments/assets/e0b41f8b-7532-48a3-a168-2df509f09bdc"/></td>
 >  </tr>
 >
 >  <tr>
