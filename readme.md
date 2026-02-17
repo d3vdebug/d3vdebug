@@ -26,33 +26,6 @@
 </pre>
 
 
----
-
-<h3 align="center">< Certifications ></h3>
-
-<div align = "center" align-items ="center">
-  
-<table width="100%">
-  <tr>
-  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/68508154-5403-4a2d-b172-fc2d2d0616a2" /></td>
-  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/b4f3f62f-7f22-4a0f-b5f9-f596407005bb" /></td>
-  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/4d08d97a-b0d5-4578-b439-a5eedfc89311" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/124823a3-53e8-447c-82a3-bdc4804c9c6e" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/734122f5-0c83-49d7-a7cc-b33e3815afa3" /></td>
-
-  </tr>
-  <tr>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/c249eea6-bb89-4fa4-9f86-eec2fa907e85" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/8cf6df24-9916-4f5b-8227-a60f6593b2af" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/42b346a9-7f24-4803-9fd1-d07c22979979" /></td>
-  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
-
-  </tr>
-</table>
-
-
-</div>
-
 ###
 <!-- Tech Stack Section -->
 <h2 align="center">< tech_stack ></h2>
@@ -186,6 +159,32 @@
 >  </tr>
 > </table> 
 
+---
+
+<h3 align="center">< Certifications ></h3>
+
+<div align = "center" align-items ="center">
+  
+<table width="100%">
+  <tr>
+  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/68508154-5403-4a2d-b172-fc2d2d0616a2" /></td>
+  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/b4f3f62f-7f22-4a0f-b5f9-f596407005bb" /></td>
+  <td width="20%"><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/4d08d97a-b0d5-4578-b439-a5eedfc89311" /></td>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/124823a3-53e8-447c-82a3-bdc4804c9c6e" /></td>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/734122f5-0c83-49d7-a7cc-b33e3815afa3" /></td>
+
+  </tr>
+  <tr>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/c249eea6-bb89-4fa4-9f86-eec2fa907e85" /></td>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/8cf6df24-9916-4f5b-8227-a60f6593b2af" /></td>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/42b346a9-7f24-4803-9fd1-d07c22979979" /></td>
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
+
+  </tr>
+</table>
+
+
+</div>
 
 <!--
 > ### Programming Languages
@@ -211,7 +210,7 @@
 
 -->
 
-
+---
 
 <h3 align="center">< socials ></h3>
 <div align="center">
@@ -227,6 +226,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
 </div>
 
+---
 
 <!--
 
