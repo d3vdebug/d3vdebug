@@ -4,18 +4,19 @@
 
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
-<h3 align="center">< whoami ></h1>
+<h2 align="center">< whoami ></h2>
+    
+```bash
+Hi there 👋
+I break things in the name of security and fix things in the name of engineering.
+I’m currently juggling Cybersecurity, Data Engineering, Cloud, and Code, which
+means my days usually include a mix of Python scripts, logs, containers, dashboards,
+and the occasional “why-is-this-not-working” moment.
+```
 
-<p>Hi there 👋</p>
-<p>I break things in the name of security and fix things in the name of engineering.</p>
-<p>I’m currently juggling Cybersecurity, Data Engineering, Cloud, and Code, which means my days usually include a mix of Python scripts, logs, containers, dashboards, and the occasional “why-is-this-not-working” moment.</p>
+---
 
-
-**How to Reach Me:** Feel free to connect with me on [LinkedIn](debmalya-mondal)
-
-###
-
-<h3 align="left">< Certifications ></h3>
+<h3 align="center">< Certifications ></h3>
 
 ###
 
@@ -44,8 +45,136 @@
 
 ###
 <!-- Tech Stack Section -->
-<h3 align="left">< tech_stack ></h3>
+<h2 align="center">< tech_stack ></h2>
 
+> ### Programming Languages
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/97f053af-58e2-413f-bbbe-57754268e170"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/f4a4e6db-9dee-4961-9e50-6cb04d6e0783"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/17bb8137-55f7-414b-ad3f-977c8fcdd3f9"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/eb97958b-5e42-4267-893c-730bf8dd3791"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Python</td>
+>  <td>Java</td>
+>  <td>Javascript</td>
+>  <td>Objective C</td>
+>  <td>R</td>
+>  </tr>
+> </table> 
+
+> ### Libraries & Frameworks
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>HTML</td>
+>  <td>CSS</td>
+>  <td>Node.js</td>
+>  <td>React</td>
+>  <td>Vite.js</td>
+>  </tr>
+> </table> 
+
+> ### CyberOps & Security Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Burp Suite</td>
+>  <td>Metasploit</td>
+>  <td>Wireshark</td>
+>  <td>Nmap</td>
+>  <td>Splunk</td>
+>  </tr>
+> </table> 
+
+> ### Cloud, DevOps & Data Engineering Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>
+>  </tr>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  </tr>
+> </table> 
+
+> ### Developer Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>  <td align="center"><img width="24" height="24" src=""/></td>
+>
+>  </tr>
+>  <tr>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  <td></td>
+>  </tr>
+> </table> 
+
+> ### Operating Systems
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/99e97680-66cb-4d3d-8741-277fef231221"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/b999de6f-64c6-4347-9193-da8a6ba41f24"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e5918771-36a7-41aa-88f5-923602be91a2"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Kali Linux</td>
+>  <td>Arch Linux</td>
+>  <td>Windows</td>
+>  </tr>
+> </table> 
+
+
+> ### Design & Productivity Tools
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/01651b71-ff67-4df6-9302-e11b3d0c356d"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e3397a8e-b68b-484a-9b03-de67e200c5ff"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/e0b41f8b-7532-48a3-a168-2df509f09bdc"/></td>
+>  </tr>
+>
+>  <tr>
+>  <td>Notion</td>
+>  <td>Framer</td>
+>  <td>Figma</td>
+>  </tr>
+> </table> 
+
+
+<!--
 > ### Programming Languages
 > ![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
 
@@ -67,27 +196,7 @@
 >  ### Design & Productivity Tools
 > ![Figma](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Framer](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Notion](https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) 
 
----
-
-> ### Programming Languages
->  <table width="100%">
->  <tr>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/97f053af-58e2-413f-bbbe-57754268e170"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/f4a4e6db-9dee-4961-9e50-6cb04d6e0783"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/17bb8137-55f7-414b-ad3f-977c8fcdd3f9"/></td>
->  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/eb97958b-5e42-4267-893c-730bf8dd3791"/></td>
->
->  </tr>
->  <tr>
->  <td>Python</td>
->  <td>Java</td>
->  <td>Javascript</td>
->  <td>Objective C</td>
->  <td>R</td>
->  </tr>
-> </table> 
-
+-->
 
 
 
@@ -119,44 +228,7 @@
 </a>
 -->
 
-<!--
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
- 
-</div>
--->
-
 ###
-###
-<br>
 
 <h2 align = "center">GitHub Stats</h1> 
 <div align ="center">
@@ -221,9 +293,6 @@
  -->
  
 <!-- PacMan -->
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph-dark.svg">
