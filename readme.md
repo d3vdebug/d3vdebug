@@ -137,7 +137,7 @@
 
 ###
 
-<!--
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=d3vdebug&theme=codeSTACKr&hide_border=true)
 
@@ -147,7 +147,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/pacman-contribution-graph.svg">
 </picture>
--->
+
 ###
 
 <!--
@@ -179,9 +179,12 @@
 -->
 
 <!-- Snake Game -->
+<!--
+
 <div align = "center">
   <img src="https://raw.githubusercontent.com/debmalyamondal/debmalyamondal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
 
 ###
 
