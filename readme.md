@@ -1,4 +1,8 @@
-[![An image of @debmalyamondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal)
+<a href="https://github.com/d3vdebug/pixelartgifs">
+    <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1"/>
+</a>
+
+[![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
 <h3 align="left">whoami</h1>
 
