@@ -67,6 +67,28 @@
 >  ### Design & Productivity Tools
 > ![Figma](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Framer](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Notion](https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) 
 
+---
+
+> ### Programming Languages
+>  <table width="100%">
+>  <tr>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/97f053af-58e2-413f-bbbe-57754268e170"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/f4a4e6db-9dee-4961-9e50-6cb04d6e0783"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/727f89f4-1323-4fd1-be23-96d1e01e5a82"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/17bb8137-55f7-414b-ad3f-977c8fcdd3f9"/></td>
+>  <td align="center"><img width="24" height="24" src="https://github.com/user-attachments/assets/eb97958b-5e42-4267-893c-730bf8dd3791"/></td>
+>
+>  </tr>
+>  <tr>
+>  <td>Python</td>
+>  <td>Java</td>
+>  <td>Javascript</td>
+>  <td>Objective C</td>
+>  <td>R</td>
+>  </tr>
+> </table> 
+
+
 
 
 <h3 align="center">< socials ></h3>
@@ -78,8 +100,11 @@
 <a href="google.com"> <img width="64" height="64" alt="icons8-medium-64 (1)" src="https://github.com/user-attachments/assets/2177736c-3295-4e16-9282-2271f74da54c" /> </a>
 <a href="google.com"> <img width="64" height="64" alt="icons8-website-64" src="https://github.com/user-attachments/assets/a46706bb-e643-489d-83e3-ff37f3a8bfc8" /> </a>
 
-
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
+</div>
+
 
 <!--
 
@@ -197,25 +222,11 @@
  
 <!-- PacMan -->
 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
 </picture>
-###
-
-
-###
-
-<h3 align="center">Support 🤝</h3>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/devdebug">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  
-</div>
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
-</div>
