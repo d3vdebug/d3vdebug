@@ -260,16 +260,6 @@
 
 ###
 
-
-
-
-
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=d3vdebug&theme=codeSTACKr&hide_border=true)
-
-
-
 <!--
 <h2 align="center">Socials</h1>
 
