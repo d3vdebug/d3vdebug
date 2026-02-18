@@ -243,7 +243,7 @@
 
 ###
 
-<h2 align = "center">GitHub Stats</h1> 
+<h2 align = "center">< github_stats ></h1> 
 <div align ="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3vdebug&theme=zenburn)
