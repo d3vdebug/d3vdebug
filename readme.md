@@ -24,8 +24,11 @@
 ┗─────────────────────────────────────────────────────────────────────────────────────────┛
     
 </pre>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
+</div>
 
-
+    
 ###
 <!-- Tech Stack Section -->
 <h2 align="center">< tech_stack ></h2>
@@ -186,7 +189,7 @@
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/8cf6df24-9916-4f5b-8227-a60f6593b2af" /></td>
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/42b346a9-7f24-4803-9fd1-d07c22979979" /></td>
   <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
-
+  <td width="20%"><img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/dd889ea8-0c91-46b0-b263-dd200070f907" /></td>
   </tr>
 </table>
 
@@ -217,9 +220,7 @@
 
 -->
 
----
-
-<h3 align="center">< socials ></h3>
+<h2 align="center">< socials ></h2>
 <div align="center">
     
 <a href="google.com"> <img width="64" height="64" alt="icons8-linkedin-64" src="https://github.com/user-attachments/assets/069fe109-120b-4b10-8c6c-53f0ec0f753c"/> </a>
@@ -229,16 +230,8 @@
 <a href="google.com"> <img width="64" height="64" alt="icons8-website-64" src="https://github.com/user-attachments/assets/a46706bb-e643-489d-83e3-ff37f3a8bfc8" /> </a>
 
 </div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
-</div>
-
----
 
 <!--
-
-###
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=d3vdebug&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/d3vdebug"
@@ -259,13 +252,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3vdebug&theme=zenburn)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d3vdebug&theme=zenburn)
   
-###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3vdebug&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-</div>
 
-###
 
 <!--
 <h2 align="center">Socials</h1>
