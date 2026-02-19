@@ -17,7 +17,7 @@
 ┃-----------------------------------------------------------------------------------------┃
 ┃  > USER: Debmalya Mondal (DevDebug)                                                     ┃
 ┃-----------------------------------------------------------------------------------------┃
-┃  > INTEREST: Cyber Security, Data & AI ENGINEERING, Cloud Security                      ┃
+┃  > INTEREST: Cyber Security, Cloud Security, Data & AI Engineering                      ┃
 ┃-----------------------------------------------------------------------------------------┃
 ┃  > OBJECTIVE: Love Securing & Breaking systems, I Pretend to know everything, just      ┃
 ┃               like everyone else.                                                       ┃
