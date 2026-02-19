@@ -245,14 +245,14 @@
 
 <h2 align = "center">< github_stats ></h1> 
 <div align ="center">
-  
+    
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3vdebug&theme=zenburn)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3vdebug&theme=zenburn&utcOffset=8)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3vdebug&theme=zenburn)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3vdebug&theme=zenburn)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d3vdebug&theme=zenburn)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3vdebug&theme=zenburn)
   
-
+</div>
 
 <!--
 <h2 align="center">Socials</h1>
