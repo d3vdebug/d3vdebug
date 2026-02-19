@@ -220,6 +220,19 @@
 
 -->
 
+<h2 align="center">< repos ></h2>
+<table align="center" width="100%">
+  <tr>
+  <td width="20%"><img width="400" alt="" src="https://opengraph.githubassets.com/1/d3vdebug/pixelartgifs"/></td>
+  <td width="20%"><img width="400" alt="" src="https://opengraph.githubassets.com/1/d3vdebug/markdown"/></td>
+
+
+  </tr>
+
+</table>
+
+
+
 <h2 align="center">< socials ></h2>
 <div align="center">
     
