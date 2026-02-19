@@ -2,6 +2,8 @@
     <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="Wanna need gifs for your readme?"/>
 </a>
 
+
+
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
 <h2 align="center">< whoami ></h2>
@@ -28,7 +30,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d3vdebug.d3vdebug&right_color=cornflowerblue&left_text=Visitors"/>
 </div>
 
-    
+<!-- another profile view count
+![:name](https://count.getloli.com/@d3vdebug)
+ -->  
+ 
 ###
 <!-- Tech Stack Section -->
 <h2 align="center">< tech_stack ></h2>
