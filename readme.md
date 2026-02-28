@@ -3,7 +3,6 @@
 </a>
 
 
-
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
 <h2 align="center">< whoami ></h2>
@@ -198,7 +197,6 @@
   </tr>
 </table>
 
-
 </div>
 
 <!--
@@ -314,3 +312,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/d3vdebug/d3vdebug/output/pacman-contribution-graph.svg">
 </picture>
+
+---
