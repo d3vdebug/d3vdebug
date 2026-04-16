@@ -2,7 +2,6 @@
     <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="Wanna need gifs for your readme?"/>
 </a>
 
-
 [![Holopin badges](https://holopin.me/debmalyamondal)](https://holopin.io/@debmalyamondal) 
 
 <h2 align="center">< whoami ></h2>
@@ -202,22 +201,16 @@
 <!--
 > ### Programming Languages
 > ![Static Badge](https://img.shields.io/badge/Objective%20C-blue?style=for-the-badge&logo=C&color=white) ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&color=white)
-
 > ### Libraries & Frameworks
 > ![Static Badge](https://img.shields.io/badge/HTML5-8accac?style=for-the-badge&logo=html5&color=white) ![Static Badge](https://img.shields.io/badge/CSS-8accac?style=for-the-badge&logo=css&logoColor=blue&color=white) ![Static Badge](https://img.shields.io/badge/Javascript-8accac?style=for-the-badge&logo=Javascript&logoColor=yellow&color=white) ![Static Badge](https://img.shields.io/badge/Vite.js-blue?style=for-the-badge&logo=vite&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
-
 > ### CyberOps & Security Tools
 > ![Static Badge](https://img.shields.io/badge/Burp%20Suite-blue?style=for-the-badge&logo=burpsuite&color=white)
-
 > ### Cloud, DevOps & Data Engineering Tools
 > ![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=nodedotjs&color=white) ![Static Badge](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&color=white)
-
 > ### Developer Tools
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=orange) ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-
 > ### Operating Systems
 > ![Static Badge](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=Kali%20Linux&logoColor=Blue&color=white) ![Static Badge](https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=Arch%20Linux&color=%233b3b3b)
-
 >  ### Design & Productivity Tools
 > ![Figma](https://img.shields.io/badge/Figma-8accac?style=for-the-badge&logo=Figma&color=white) ![Framer](https://img.shields.io/badge/Framer-8accac?style=for-the-badge&logo=Framer&logoColor=blue&color=white) ![Notion](https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black) 
 
