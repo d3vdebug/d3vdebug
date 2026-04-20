@@ -119,7 +119,6 @@
 >  </tr>
 > </table> 
 
-
 > ### Developer Tools
 >  <table width="100%">
 >  <tr>
@@ -154,8 +153,7 @@
 >  <td>Arch Linux</td>
 >  <td>Windows</td>
 >  </tr>
-> </table> 
-
+> </table>
 
 > ### Design & Productivity Tools
 >  <table width="100%">
