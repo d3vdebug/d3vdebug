@@ -220,7 +220,6 @@
   <td width="20%"><img width="400" alt="" src="https://opengraph.githubassets.com/1/d3vdebug/pixelartgifs"/></td>
   <td width="20%"><img width="400" alt="" src="https://opengraph.githubassets.com/1/d3vdebug/markdown"/></td>
 
-
   </tr>
 
 </table>
